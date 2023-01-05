@@ -1,0 +1,26 @@
+h1 {
+    background-color: aqua;
+    font-family: 'Courier New';
+    text-align: center;
+}
+
+p {
+    font-family: 'Trebuchet MS';
+    line-height: 30px;
+    letter-spacing: 1px;
+}
+
+ul {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    font-style: italic;
+    border-width: 4px;
+    border-style: solid;
+    border-radius: 20px;
+    border-color: pink;
+}
+
+li {
+    list-style-type: square;
+    text-shadow: 2px 2px lightblue;
+}
