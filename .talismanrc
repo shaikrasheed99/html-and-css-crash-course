@@ -1,4 +1,6 @@
 fileignoreconfig:
 - filename: html-topics/forms/index.html
   checksum: fc5ae31e5b359116a17abe1461408b49e92bc7238923d3d5afc1fa3a9dc1e62b
+- filename: css-topics/pseudo-classes/index.html
+  checksum: 50234f5e6975bbf74b1dabc6285b51fd539f24aa2f1c2b26a2f8dab1d67a1e85
 version: ""
