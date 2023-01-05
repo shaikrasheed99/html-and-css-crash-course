@@ -1,0 +1,81 @@
+body, div, p, h1 {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header {
+    background-color: #f4f4f4;
+    margin: 20px;
+    padding: 20px;
+    max-width: 100%;
+    width: 3000px;
+    text-align: center;
+    position: fixed;
+}
+
+header h1 {
+    color: cornflowerblue;
+    border: 3px solid darkseagreen;
+    border-radius: 40px;
+    display: inline-block;
+    padding: 20px;
+}
+
+header h1:hover {
+    background-color: lightgrey;
+}
+
+main {
+    position: relative;
+    top: 180px;
+    left: 0;
+}
+
+div {
+    border: 3px solid violet;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 15px;
+}
+
+div:hover {
+    background-color: #f4f4f4;
+}
+
+.first::first-line {
+    color: crimson;
+}
+
+.third::first-line {
+    color: crimson;
+}
+
+.first::first-letter {
+    font-size: 25px
+}
+
+.third::first-letter {
+    font-size: 25px
+}
+
+.second::after {
+    content: "Adding content after the paragraph.";
+    padding: 10px;
+    margin: 10px;
+    border: 1px dotted red;
+    border-radius: 10px;
+    display: inline-block;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.fourth::before {
+    content: "Adding content before the paragraph.";
+    padding: 10px;
+    margin: 10px;
+    border: 1px dotted red;
+    border-radius: 10px;
+    display: inline-block;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
