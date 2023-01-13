@@ -1,4 +1,4 @@
-# CSS Margins
+# CSS Padding
 
 CSS Padding is used to create space between elements inside the border. 
 
