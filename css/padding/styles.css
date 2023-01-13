@@ -1,0 +1,48 @@
+body {
+    text-align: center;
+}
+
+.container {
+    border: 2px solid black;
+    display: inline-block;
+    width: 700px;
+}
+
+.top, .right, .bottom, .left {
+    margin: 10px;
+    text-align: start;
+}
+
+.title {
+    font-size: larger;
+    font-weight: bold;
+}
+
+#top-padding {
+    width: 680px;
+    height: 100px;
+    border: 2px solid black;
+    padding-top: 50px;
+}
+
+#right-padding {
+    text-align: right;
+    width: 550px;
+    height: 100px;
+    border: 2px solid black;
+    padding-right: 130px;
+}
+
+#bottom-padding {
+    width: 680px;
+    height: 100px;
+    border: 2px solid black;
+    padding-bottom: 50px;
+}
+
+#left-padding {
+    width: 630px;
+    height: 100px;
+    border: 2px solid black;
+    padding-left: 50px;
+}
