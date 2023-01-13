@@ -1,4 +1,6 @@
 fileignoreconfig:
+- filename: README.md
+  checksum: 4eb0c31cb61d4885766b33be022538ecb97b59d42159d8fef26c2fc9a97a5ec4
 - filename: html-topics/forms/index.html
   checksum: fc5ae31e5b359116a17abe1461408b49e92bc7238923d3d5afc1fa3a9dc1e62b
 - filename: css-topics/pseudo-classes/index.html
