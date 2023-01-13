@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+.gambia-flag {
+    margin: 50px 300px;
+}
+
+.red {
+    background-color: #c71226;
+    height: 100px;
+}
+
+.blue {
+    margin-top: 20px;
+    background-color: #0d1b88;
+    height: 100px;
+    margin-bottom: 20px;
+}
+
+.green {
+    background-color: #397327;
+    height: 100px;
+}
