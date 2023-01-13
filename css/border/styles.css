@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+}
+
+.container {
+    border: 2px solid black;
+    display: inline-block;
+    width: 200px;
+}
+
+.title {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+#whole, #top, #right, #bottom, #left {
+    margin: 20px;
+}
+
+#whole .title {
+    border: 2px solid;
+}
+
+#top .title {
+    border-top: 2px solid;
+}
+
+#right .title {
+    border-right: 2px solid;
+}
+
+#bottom .title {
+    border-bottom: 2px solid;
+}
+
+#left .title {
+    border-left: 2px solid;
+}
