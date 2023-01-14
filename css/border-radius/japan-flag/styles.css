@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+}
+
+.container {
+    display: inline-block;
+}
+
+.flag {
+    margin-top: 50px;
+    border: 1px solid;
+    width: 400px;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.circle {
+    border: 2px solid;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: crimson;
+}
