@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+}
+
+#container {
+    display: inline-block;
+    border: 2px solid;
+    width: 800px;
+    background-color: lightblue;
+}
+
+#title {
+    font-weight: bold;
+    text-decoration: underline;
+    display: block;
+}
+
+#id {
+    font-size: larger;
+    font-weight: 400;
+    line-height: 30px;
+}
