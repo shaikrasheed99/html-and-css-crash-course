@@ -1,0 +1,46 @@
+body {
+    text-align: center;
+}
+
+.container {
+    margin-top: 50px;
+    border: 2px solid black;
+    display: inline-block;
+    width: 400px;
+    font-size: larger;
+}
+
+.whole {
+    margin: 20px;
+    text-transform: capitalize;
+    border: 2px solid;
+    border-radius: 20px;
+}
+
+.top-left {
+    margin: 20px;
+    text-transform: capitalize;
+    border: 2px solid;
+    border-top-left-radius: 20px;
+}
+
+.top-right {
+    margin: 20px;
+    text-transform: capitalize;
+    border: 2px solid;
+    border-top-right-radius: 20px;
+}
+
+.bottom-left {
+    margin: 20px;
+    text-transform: capitalize;
+    border: 2px solid;
+    border-bottom-left-radius: 20px;
+}
+
+.bottom-right {
+    margin: 20px;
+    text-transform: capitalize;
+    border: 2px solid;
+    border-bottom-right-radius: 20px;
+}
