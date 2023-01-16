@@ -11,7 +11,6 @@ Below properties are used along with the background.
 * `background-repeat` - set the background repeat 
 
 Shorthand for `background` property
-    
     ```css
     background: url("something.png") no-repeat top right;
     ```
